@@ -3,7 +3,7 @@
 
 -Also install ganche to create your own blockchain network.
 
--Also install truffle to run your smart contract using this command: npm install -g truffle@5.0.2
+-Also install truffle to run your smart contract using this command: ```npm install -g truffle@5.0.2```
 ## To run the project:
 -Open Ganche and select/create network.
 
