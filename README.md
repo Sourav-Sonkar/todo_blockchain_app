@@ -12,6 +12,8 @@
 
 -Open MetaMask extension and login to your MetaMask account.
 
--Then change the network to localhost:7545 ie  HTTP://127.0.0.1:7545
+-Then change the network to localhost:7545 ie  HTTP://127.0.0.1:7545 in MetaMask extension.
+
+-Then import the account from ganche to metamask extension for following network.
 
 -Run the following command to run the project: ```npm install && npm run dev```
