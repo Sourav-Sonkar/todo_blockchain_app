@@ -14,4 +14,4 @@
 
 -Then change the network to localhost:7545 ie  HTTP://127.0.0.1:7545
 
--Run the following command to run the project: npm run dev
+-Run the following command to run the project: ```npm install && npm run dev```
